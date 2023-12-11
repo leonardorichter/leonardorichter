@@ -6,7 +6,6 @@
 <div>
   <a href="https://github.com/swrichter">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=swrichter&showicons=false&theme=dark&include_all_commits=true*count_private=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swrichter&layout=compact&langs+count=16&theme=dark">
 </div>
 
 <div style="display: incline_block"><br>
