@@ -1,7 +1,7 @@
 ### Olá! Eu sou o swrichter! 👋
 
 - 📍São Bernardo do Campo, SP
-- 🌱 Estudando HTML5 & CSS3, em breve começarei com JavaScript
+- 🌱 Estudando HTML5 & CSS3, em breve JavaScript
 
 <div>
   <a href="https://github.com/swrichter">
