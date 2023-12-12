@@ -1,14 +1,32 @@
-### Olá! Eu sou o swrichter! 👋
-
-- 📍São Bernardo do Campo, SP
-- 🌱 Estudando HTML5 & CSS3, em breve JavaScript
-
-<div>
-  <a href="https://github.com/swrichter">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=swrichter&showicons=false&theme=dark&include_all_commits=true*count_private=true">
+<h1 align="center">Olá, eu sou o swrichter!</h1>
 </div>
 
-<div style="display: incline_block"><br>
-  <img align="center" alt="Leo HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=swrichter&theme=radical&mode=weekly"/>
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
+
+## Atualmente estou estudando:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Workstation:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contatos:
+
+<div> 
+<a href="https://www.instagram.com/ironrichter" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
