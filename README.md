@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o swrichter!</h1>
+<h1 align="center">Olá, eu sou o Leonardo Richter!</h1>
 </div>
 
 <div  align="center" style="margin-bottom:100px">
